@@ -53,6 +53,12 @@
     /* Phase 3 */
 
     /* Your code here */
+    width: 33%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-end;
+
 }
 
 .example4 {
