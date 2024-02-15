@@ -21,6 +21,9 @@
     /* Phase 2 */
 
     /* Your code here */
+    display: inline-flex;
+    align-items: center;
+    gap: 0 8px;
 }
 
 .example2 > button {
